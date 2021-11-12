@@ -11,9 +11,7 @@ Wish me luck!
 
 ### [Mini Project 1 - Real-time body segmentation test](https://github.com/Coding-Forest/2021-Body-Part-Segmentation/tree/main/01%20Project%201%20-%20real-time%20BodyPix)
 
-![Real time body segmentation test1](https://github.com/Coding-Forest/2021-Body-Part-Segmentation/blob/main/01%20Project%201%20-%20real-time%20BodyPix/bodySeg1.png)
-
-![Real time body segmentation test2](https://github.com/Coding-Forest/2021-Body-Part-Segmentation/blob/main/01%20Project%201%20-%20real-time%20BodyPix/bodySeg2.png)
+![Real time body segmentation test1](https://github.com/Coding-Forest/2021-Body-Part-Segmentation/blob/main/01%20Project%201%20-%20real-time%20BodyPix/bodySeg.png)
 
 <br>
 
